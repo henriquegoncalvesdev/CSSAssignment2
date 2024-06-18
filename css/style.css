@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    text-align: center;
+    
+}
+
+body {
+    background-image: url("../images/brunomars.png");
+    background-size: cover;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+
+}
+
+p {
+    color: #000000;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+.highlight {
+    color: #130ff1;
+}
+
+.highlight-em{
+    color: rgb(85, 0, 255);
+}
+
+.highlight-em2{
+    color: rgb(255, 0, 0);
+}
+
+.moon-stars {
+    color: yellow;
+}
+h2 {
+    color: black;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+    text-align: center;
+}
+
+.imgsite {
+    width: 300px;
+    height: 250px;
+}
